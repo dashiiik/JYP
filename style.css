@@ -1,1 +1,78 @@
+h1{
+    text-align: center;
+    color: aliceblue;
+    background-color: black;
+}
+header{
+    background-color: black;
+    padding:10px;
+}
+main{
+    background-color: black;
+   
+    color: blanchedalmond;
+}
+img{
+    background-image: https://hotline.ua/img/tx/238/2388050095.jpg
+    
+}
+p{
+    text-align: left;
+    color: rgb(0, 0, 0);
+    background-color: orangered;
+}
+.MV{
+    float: left;
+    width: 150px;
+    text-align: center;
+    padding: 10px;
+    border: 5px double orange;
+}
+.A3{
+    background-color: blueviolet;
+}
+.WWW{
+    float: left;
+    width: 150px;
+    text-align: center;
+    padding: 10px;
+    border: 5px double orangered;
+}
+.gaga{
+    float: left;
+    width: 150px;
+    text-align: center;
+    padding: 10px;
+    border: 5px double red;
+}
+.popa{
+    float: left;
+    width: 150px;
+    text-align: center;
+    padding: 10px;
+    border: 5px double purple;
+}
+.jopa{
+    float: left;
+    width: 150px;
+    text-align: center;
+    padding: 10px;
+    border: 5px double blue;
+}
+.ooo{
+    float: left;
+    width: 150px;
+    text-align: center;
+    padding: 10px;
+    border: 5px double darkblue;
+}
+.nv{
+    float: left;
+    width: 150px;
+    text-align: center;
+    padding: 10px;
+    border: 5px double black;
+}
+
+
 
